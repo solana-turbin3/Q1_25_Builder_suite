@@ -8,3 +8,4 @@ A Folder that has all the turbin3 q1 2025 Prerequisite tasks.
 
 ## Contents
 1. [prereqs](https://github.com/suite/TURBIN3.git) - The prereqs (rust & ts)
+1. [solana-starter](https://github.com/suite/solana-starter.git) - solana-starter
