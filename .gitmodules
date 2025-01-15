@@ -1,0 +1,3 @@
+[submodule "prereqs"]
+	path = airdrop
+	url = https://github.com/suite/TURBIN3.git
