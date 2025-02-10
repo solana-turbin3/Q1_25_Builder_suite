@@ -11,8 +11,9 @@ Memepool is a yield aggregator designed to make the meme coin market accessible 
 - [Memepool Contract](https://github.com/suite/memepool.git)
 - [User Stories](https://docs.google.com/document/d/1HBy0QXC6gkG0PM1P_FpaIlNVbyiZAzx89kV5sJg0AfA/edit?usp=sharing)
 
-## Other
+## Course work
 1. [prereqs](https://github.com/suite/TURBIN3.git) - The prereqs (rust & ts)
-2. [solana-starter](https://github.com/suite/solana-starter.git) - solana-starter
-3. [escrow](https://github.com/suite/escrow.git) - escrow
-4. [vault](https://github.com/suite/vault.git) - vault
+2. [solana-starter](https://github.com/suite/solana-starter.git)
+3. [escrow](https://github.com/suite/escrow.git)
+4. [vault](https://github.com/suite/vault.git)
+5. [amm](https://github.com/suite/amm.git)

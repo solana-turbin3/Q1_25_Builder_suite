@@ -13,3 +13,6 @@
 [submodule "memepool"]
 	path = memepool
 	url = https://github.com/suite/memepool
+[submodule "amm"]
+	path = amm
+	url = git@github.com:suite/amm.git
