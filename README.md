@@ -1,11 +1,18 @@
 # Turbin3-Q1-25
-A Folder that has all the turbin3 q1 2025 Prerequisite tasks.
+My work for the Q1 2025 Turbin3 builders cohort.
 
 ## Prerequisites
 1. Cargo Installed
 2. Solana CLI installed
 3. Rust Installed
 
-## Contents
+## Capstone - Memepool
+Memepool is a yield aggregator designed to make the meme coin market accessible to everyone. By depositing SOL, users gain effortless exposure to curated meme coin liquidity pool positions. Memepool handles the research, management, and optimization, delivering yield directly back to the users.
+- [Memepool Contract](https://github.com/suite/memepool.git)
+- [User Stories](https://docs.google.com/document/d/1HBy0QXC6gkG0PM1P_FpaIlNVbyiZAzx89kV5sJg0AfA/edit?usp=sharing)
+
+## Other
 1. [prereqs](https://github.com/suite/TURBIN3.git) - The prereqs (rust & ts)
-1. [solana-starter](https://github.com/suite/solana-starter.git) - solana-starter
+2. [solana-starter](https://github.com/suite/solana-starter.git) - solana-starter
+3. [escrow](https://github.com/suite/escrow.git) - escrow
+4. [vault](https://github.com/suite/vault.git) - vault

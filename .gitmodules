@@ -10,3 +10,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = git@github.com:suite/escrow.git
+[submodule "memepool"]
+	path = memepool
+	url = https://github.com/suite/memepool
