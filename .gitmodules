@@ -19,3 +19,6 @@
 [submodule "dice-game"]
 	path = dice-game
 	url = git@github.com:suite/dice-game.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = git@github.com:suite/nft-staking.git
