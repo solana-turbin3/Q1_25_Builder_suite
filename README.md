@@ -19,3 +19,4 @@ Memepool is a yield aggregator designed to make the meme coin market accessible 
 5. [amm](https://github.com/suite/amm.git)
 6. [dice-game](https://github.com/suite/dice-game.git)
 7. [nft-staking](https://github.com/suite/nft-staking.git)
+8. [nft-marketplace](https://github.com/suite/nft-marketplace.git)
