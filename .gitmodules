@@ -25,3 +25,9 @@
 [submodule "nft-marketplace"]
 	path = nft-marketplace
 	url = git@github.com:suite/nft-marketplace.git
+[submodule "memepool-ui"]
+	path = memepool-ui
+	url = git@github.com:suite/memepool-ui.git
+[submodule "memepool-aggregator"]
+	path = memepool-aggregator
+	url = git@github.com:suite/memepool-aggregator.git

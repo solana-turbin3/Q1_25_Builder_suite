@@ -9,6 +9,8 @@ My work for the Q1 2025 Turbin3 builders cohort.
 ## Capstone - Memepool
 Memepool is a yield aggregator designed to make the meme coin market accessible to everyone. By depositing SOL, users gain effortless exposure to curated meme coin liquidity pool positions. Memepool handles the research, management, and optimization, delivering yield directly back to the users.
 - [Memepool Contract](https://github.com/suite/memepool.git)
+- [Memepool Aggregator](https://github.com/suite/memepool-aggregator.git)
+- [Memepool UI](https://github.com/suite/memepool-ui.git)
 - [User Stories](https://docs.google.com/document/d/1HBy0QXC6gkG0PM1P_FpaIlNVbyiZAzx89kV5sJg0AfA/edit?usp=sharing)
 
 ## Course work
